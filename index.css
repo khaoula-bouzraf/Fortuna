@@ -12,6 +12,12 @@
   left: 500px;
 }
 
+.content {
+  position: fixed;
+  top: -150px;
+  left: 500px;
+}
+
 .content2{
   position: fixed;
   text-align: center;
